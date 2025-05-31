@@ -73,18 +73,3 @@
 </style>
 <div class="about-section">
   <h1>About Us</h1><br>
-  <h2>We are a group of students with a vision to contribute as much as we can to our society in any way we can. 
-    When the opportunity was presented to us to develop a project as part of the final semester in our course, we brainstormed various different ideas for project which can actually make a difference in today’s world. 
-    We finally stumbled upon the idea for a web app which can connect donors to various charity organizations or NGOs in situations like when there is abundant food available from celebrations, functions etc. We wanted to establish a proper channel between the donors and volunteers who were ready to distribute the available items to the ones in need. 
-    With our past experience and help from proper resources, we made this idea possible with dedication and hard work.
-    All along this projects development we had only one thing in our minds:
-   <h2> A better solution for a better tomorrow.<h2>
-
-</h2>
-</div>
-
-<h1 style="text-align:center">Our Team</h1><br>
-<h3 style="text-align:center">Amal</h3>
-<h3 style="text-align:center">Asher</h3> 
-<h3 style="text-align:center">Hiba</h3> 
-<h3 style="text-align:center">Jaswanth</h3>
